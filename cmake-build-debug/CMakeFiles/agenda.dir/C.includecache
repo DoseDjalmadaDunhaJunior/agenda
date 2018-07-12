@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/djalmacunha/Desktop/paradas_de_algoritmo/brincadeiras/agenda/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

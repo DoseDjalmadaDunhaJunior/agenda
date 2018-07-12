@@ -1,0 +1,3 @@
+/Users/djalmacunha/Desktop/paradas_de_algoritmo/brincadeiras/agenda/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/djalmacunha/Desktop/paradas_de_algoritmo/brincadeiras/agenda/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/djalmacunha/Desktop/paradas_de_algoritmo/brincadeiras/agenda/cmake-build-debug/CMakeFiles/agenda.dir
